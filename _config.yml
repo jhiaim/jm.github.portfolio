@@ -2,3 +2,11 @@ title: "Portfolio de jhiaim"
 description: "Présentation de mon parcours, compétences et projets BTS SIO SISR"
 theme: minima
 lang: fr-FR
+
+# Ajoute ce qui suit :
+include:
+  - custom.css
+
+# Pour minima, tu peux ajouter ce bloc pour injecter la feuille de style :
+sass:
+  style: compressed
